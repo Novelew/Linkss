@@ -136,6 +136,7 @@ h1 {
     text-transform: uppercase;
     background: linear-gradient(45deg, #ffffff, #666666, #ffffff);
     background-size: 200% auto;
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: gradient 4s linear infinite;
